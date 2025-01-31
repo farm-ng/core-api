@@ -1,0 +1,5 @@
+<map id="sophus::MutImageView&lt; TPixel &gt;" name="sophus::MutImageView&lt; TPixel &gt;">
+<area shape="rect" id="node1" title="View of a mutable image, which does not own the data." alt="" coords="18,95,193,136"/>
+<area shape="rect" id="node3" href="$classsophus_1_1_mut_image.html" title="A image with write access to pixels and exclusive ownership. There is no copy constr / copy assignmen..." alt="" coords="5,184,205,225"/>
+<area shape="rect" id="node2" href="$structsophus_1_1_image_view.html" title="A view of an (immutable) image, which does not own the data." alt="" coords="25,5,185,47"/>
+</map>

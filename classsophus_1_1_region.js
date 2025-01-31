@@ -1,0 +1,26 @@
+var classsophus_1_1_region =
+[
+    [ "Point", "classsophus_1_1_region.html#adfa0aa4e325c47bcd72861fec7198319", null ],
+    [ "Scalar", "classsophus_1_1_region.html#a43e4d6c11c1053318d987891d0d468a1", null ],
+    [ "Region", "classsophus_1_1_region.html#a307da3b50a25077151dfc1c175a12337", null ],
+    [ "cast", "classsophus_1_1_region.html#abfb146aad1c6f88583f1a377817a48c7", null ],
+    [ "clamp", "classsophus_1_1_region.html#a19f66ec509e50e37b6ffa4533db5ba2a", null ],
+    [ "contains", "classsophus_1_1_region.html#ac9b1a9834d0ada5b5fb00748d222e0d1", null ],
+    [ "encloseCast", "classsophus_1_1_region.html#adf89acd5b350e8a2a909c00f9c3e166f", null ],
+    [ "extend", "classsophus_1_1_region.html#a07c2ed9964be00c6867d8d3c58194086", null ],
+    [ "extend", "classsophus_1_1_region.html#a24835ac83878cc98df4b8e1c747f76cd", null ],
+    [ "getElem", "classsophus_1_1_region.html#abeede4edbece195c92ea29442530563a", null ],
+    [ "isDegenerated", "classsophus_1_1_region.html#a5d4b2036994dec6c6fb760c41532ecbc", null ],
+    [ "isEmpty", "classsophus_1_1_region.html#adef55cdfcda3407aa6faf8c3d40f9a6e", null ],
+    [ "isProper", "classsophus_1_1_region.html#a24d69d213e451c1412384e8a163badbe", null ],
+    [ "isUnbounded", "classsophus_1_1_region.html#a8b75f65ad9d5d9a625aed32d84fcac37", null ],
+    [ "max", "classsophus_1_1_region.html#a5f1e0d3116491842bad07eea7a0bdfab", null ],
+    [ "mid", "classsophus_1_1_region.html#abd00dbf418fd0a68186e6823b25edb24", null ],
+    [ "min", "classsophus_1_1_region.html#acba553d203a965a60a6c7a5e371d26f5", null ],
+    [ "range", "classsophus_1_1_region.html#a05f024256bea3ff28fa6a27c49127f66", null ],
+    [ "roundCast", "classsophus_1_1_region.html#a5c17c91635eebee0f7da87037e9de216", null ],
+    [ "setElem", "classsophus_1_1_region.html#aba3907f7134ffcc1d70b0df6839c6120", null ],
+    [ "translated", "classsophus_1_1_region.html#a7157ccd8c7fc386f498da00c7f48fe29", null ],
+    [ "tryMax", "classsophus_1_1_region.html#aa7ab5f27428b18c3d83449f53704a97f", null ],
+    [ "tryMin", "classsophus_1_1_region.html#afc9ba1e6929035286186dd00e78c6db6", null ]
+];
